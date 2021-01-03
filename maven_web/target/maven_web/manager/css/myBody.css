@@ -1,0 +1,131 @@
+@charset "utf-8";
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/*------------------*/
+.mnor{
+    height: 40px;
+    background-color: white;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 40px;
+    background-image: url("../image/bg_02.jpg");
+}
+.mnor span.s1{
+    color: black;
+    padding-right: 600px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.mnor a{
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+}
+.mnor a:hover{
+    color: purple;
+    text-decoration: underline;
+}
+/*----------------*/
+.mbox .box1{
+    width: 290px;
+    height: 250px;
+    margin: 1px;
+    vertical-align: top;
+    line-height: 20px;
+    float: left;
+}
+/*-------------*/
+.nor1{
+    height: 40px;
+    background-color: white;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 40px;
+    background-image: url("../image/bg_02.jpg");
+}
+.nor1 span.s2{
+    color: black;
+    padding-right: 690px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.nor1 a{
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+}
+.nor1 a:hover{
+    color: purple;
+    text-decoration: underline;
+}
+/*------------------*/
+.nor2{
+    height: 40px;
+    background-color: white;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 40px;
+    background-image: url("../image/bg_02.jpg");
+}
+.nor2 span.s3{
+    color: black;
+    padding-right: 790px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.nor2 a{
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+}
+.nor2 a:hover{
+    color: purple;
+    text-decoration: underline;
+}
+/*------------------*/
+.nor3{
+    height: 40px;
+    background-color: white;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 40px;
+    background-image: url("../image/bg_02.jpg");
+}
+.nor3 span.s4{
+    color: black;
+    padding-right: 840px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.nor3 a{
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+}
+.nor3 a:hover{
+    color: purple;
+    text-decoration: underline;
+}
+/*------------------*/
+.font-shop{
+    text-align: center;
+    font-size: 14px;
+}
+.shop-p {
+    text-align: center;
+    color: red;
+}
+/*.login-box{*/
+/*    width: 500px;*/
+/*    height: 500px;*/
+/*    border: 1px solid #000;*/
+/*    margin: 0 auto;  !*居中*!*/
+/*    margin-top: 15%;  !*上下居中*!*/
+/*    text-align: center; !*内容居中*!*/
+/*    background: #00000060;*/
+/*    padding: 20px 50px;*/
+
+/*}*/
